@@ -51,7 +51,7 @@ We now allow a security mechanism to depend on a security parameter $n\in\mathbb
 A sequence of security mechanisms $\{M_n\}_{n\in\mathbb{N}}$ is said to be asymptotically secure against a class of attacks $\mathcal{A}$ if:
 
 - $\exists$ a polynomial $p(\cdot)$ such that $T_{M_n} \leq p(n)\ \forall n\in\mathbb{N}$.
-- $forall q(\cdot), s(\cdot)$ polynomials and sequence of attacks $\{A_n\}_{n\in\mathbb{N}}\subset \mathcal{A},\ \exists n_0$ such that $\forall n\geq n_0$ we have 
+- $\forall q(\cdot), s(\cdot)$ polynomials and sequence of attacks $\{A_n\}_{n\in\mathbb{N}}\subset \mathcal{A},\ \exists n_0$ such that $\forall n\geq n_0$ we have 
 $$
 P[S_{\mathcal{A}} \cap \{T_{A_n} \leq q(n)\}; A_n, M_n] \leq \frac{1}{s(n)}
 $$

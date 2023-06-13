@@ -82,6 +82,7 @@ d_{D}(S_0,S_1)\leq\varepsilon
 $$
 
 `Asymptotic Definition`
+
 Two sequences of systems $\{S_{0,n}\}_{n\in\mathbb{N}}$ and $\{S_{1,n}\}_{n\in\mathbb{N}}$ are computationally indistinguishable in the asymptotic formulation if for any polynomial $p(\cdot)$ and $q(\cdot)$, and any sequence of distinguishers $\{D_n\}_{n\in\mathbb{N}}$ with running time $T_{D_n}\leq p(n)$, it holds
 $$
 d_{D_n}(S_{0,n},S_{1,n})\leq\frac{1}{q(n)}
