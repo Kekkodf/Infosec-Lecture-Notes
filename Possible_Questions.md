@@ -30,9 +30,10 @@ Answers: [Lecture_02.md](./Lecture_02/Lecture_02.md)
 
 Answers: [Lecture_03.md](./Lecture_03/Lecture_03.md)
 
-## Lecture 04 - Symmetric Encryption and perfect secrecy
+## Lecture 04 - Symmetric Encryption and Perfect Secrecy
 1. Which are Goals, Threats, Services and Mechanisms in Simmetric Encryption?
-2. 
+2. What completelly defines a cipher?
+3. What is the guessing attack? Explain the differences between `Ignorant`, `Informed` and `Sequential` guessing attacks.
 
 Answers: [Lecture_04.md](./Lecture_04/Lecture_04.md)
 
@@ -71,10 +72,10 @@ Answers: [Lecture_10.md](./Lecture_10/Lecture_10.md)
 
 Answers: [Lecture_11.md](./Lecture_11/Lecture_11.md)
 
-## Lecture 12_13 - Symmetric Authentication and Integrity Protection
+## Lecture 12-13 - Symmetric Authentication and Integrity Protection
 1. 
 
-Answers: [Lecture_12_13.md](./Lecture_12_13/Lecture_12_13.md)
+Answers: [Lecture_12-13.md](./Lecture_12-13/Lecture_12-13.md)
 
 ## Lecture 14 - Digital Signatures
 1. 
@@ -86,10 +87,10 @@ Answers: [Lecture_14.md](./Lecture_14/Lecture_14.md)
 
 Answers: [Lecture_15.md](./Lecture_15/Lecture_15.md)
 
-## Lecture 16_17 - Information Theoretic Key Agreement
+## Lecture 16-17 - Information Theoretic Key Agreement
 1. 
 
-Answers: [Lecture_16_17.md](./Lecture_16_17/Lecture_16_17.md)
+Answers: [Lecture_16-17.md](./Lecture_16-17/Lecture_16-17.md)
 
 ## Lecture 18 - Entity Authentication Protocols
 1. 

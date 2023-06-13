@@ -1,4 +1,4 @@
-# Answers to the questions of Lecture 02
+# Answers to the questions of Lecture 02 - Quantitative Definitions and Evaluation of Security
 
 To answer the following questions we need to keep in mind the following background informations.
 
@@ -59,3 +59,5 @@ In other words, the probability of success vanisher super polynomially in $n$.
 
 ## 4. What is the link between the definitions above and computational complexity theory?
 The asymtopical computational security is guaradend iff the class of attacks $\mathcal{A}$ is not in the BPP class (or, more general, in the BQP class).
+
+## [Go back to the main page](../Possible_Questions.md)

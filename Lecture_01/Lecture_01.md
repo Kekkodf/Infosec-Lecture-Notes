@@ -1,4 +1,4 @@
-# Answers to the questions of Lecture 01
+# Answers to the questions of Lecture 01 - Introduction
 
 ## 1. Which are the security goals in Information Security?
 The security goals in Information Security are:
@@ -42,3 +42,5 @@ The security mechanisms in Information Security are:
 
 ## 5. What is a network security protocol?
 A layer N security protocol is a mechanism that offers one or more security services that protects the information at layer N and above of a network.
+
+## [Go back to the main page](../Possible_Questions.md)

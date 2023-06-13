@@ -1,4 +1,5 @@
-# Answers to the questions of Lecture 03
+# Answers to the questions of Lecture 03 - Composable Definitions of Security
+
 ## 1. What is a Distinguisher?
 A distinguisher between two random variables $x_0$ and $x_1$ is a system $D$ that is allowed to observe the realization of $y$ without knowing in advanced if $b=0$ or $b=1$.
 - $x_0$ and $x_1$ are characterized by the PMDs $p_{x_0},\ p_{x_1}$.
@@ -114,11 +115,15 @@ $M$ mechanism, $S[M^*]$ mechanism that use the ideal counter part of $M$.
 If $M$ is $\varepsilon_1$-unconditionally secure and $S[M^*]$ is $\varepsilon_2$-unconditionally secure, then $S[M]$ is $\varepsilon_1+\varepsilon_2$-unconditionally secure.
 
 <mark>PROOF.</mark>
+
 By the triangular inequality of the distinguishability, we have
+
 $$
-\begin{eqnarray}
-d_D(S[M],S[M^*])\leq d_D(S[M],M)+d_D(M,M^*)+d_D(M^*,S[M^*])
-\end{eqnarray}
+\begin{align*}
+d(S[M],S^*)\leq d(S[M],S[M^*])+d(S[M^*], S^*)
+\\
+\leq d(M,M^*)+d(S[M^*],S^*)\leq\varepsilon_1+\varepsilon_2
+\end{align*}
 $$
 
 `Theorem (computational)`
@@ -128,3 +133,5 @@ If $M$ is $(\varepsilon_1, T_0)$-computationally secure and $S[M^*]$ is $(\varep
 `Theorem (asymptotic)`
 
 If $M_n$ is computationally secure in the asymptotic formulation and $S_n[M_n^*]$ is computationally secure in the asymptotic formulation, then for any polynomial $p(\cdot)$, $S_n[M_n^{p(n)}]$ is computationally secure in the asymptotic formulation.
+
+## [Go back to the main page](../Possible_Questions.md)

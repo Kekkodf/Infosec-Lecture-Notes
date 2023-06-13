@@ -7,6 +7,13 @@ The repository is organized in the following way:
 - `Possible_Questions.md` contains a list of possible questions for the final oral exam.
 - `Lecture_xx` folders contain the notes for the xx-th lecture with the answers to the questions in `Possible_Questions.md`.
 
+The notes are written in Markdown and the repository is structured to be used with [Visual Studio Code](https://code.visualstudio.com/) or [Obsidian](https://obsidian.md/). 
+
+If you want to use another editor, you can find a list of Markdown editors [here](https://www.markdownguide.org/tools/).
+
+## Disclaimer
+This repository is not affiliated with the University of Padua, Italy and it is not an official repository of the course "Information Security". The notes and the possible questions are not guaranteed to be correct and complete. Use them at your own risk.
+
 ## How to contribute
 If you want to contribute to this repository, please follow these steps:
 1. Fork this repository.
@@ -15,9 +22,6 @@ If you want to contribute to this repository, please follow these steps:
 4. Add the notes for the lecture in the folder `Lecture_xx` and the answers to the questions in `Possible_Questions.md`.
 5. Commit and push the changes to your forked repository.
 6. Create a pull request to this repository.
-
-## Disclaimer
-This repository is not affiliated with the University of Padua, Italy and it is not an official repository of the course "Information Security". The notes and the possible questions are not guaranteed to be correct and complete. Use them at your own risk.
 
 ## Contributors
 - [Francesco L. De Faveri](https://kekkodf.github.io/kdf.github.io/)
