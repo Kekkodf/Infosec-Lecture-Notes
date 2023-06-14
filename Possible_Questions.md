@@ -56,12 +56,19 @@ Answers: [Lecture_05.md](./Lecture_05/Lecture_05.md)
 Answers: [Lecture_06.md](./Lecture_06/Lecture_06.md)
 
 ## Lecture 07 - Attacks on Cipher
-1. 
+1. Which is the classification of attacks against encryption?
+2. Brute force strategy.
 
 Answers: [Lecture_07.md](./Lecture_07/Lecture_07.md)
 
 ## Lecture 08 - Asymmetric Encryption
-1. 
+1. Why do we need asymmetric encryption?
+2. Where does secrecy come from in public key encryption?
+3. State the definition of one-way function.
+4. RSA cryptosystem.
+5. El-Gamal cryptosystem.
+6. Eliptic Curve Cryptography.
+7. McEliece cryptosystem.
 
 Answers: [Lecture_08.md](./Lecture_08/Lecture_08.md)
 

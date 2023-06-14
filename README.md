@@ -13,6 +13,10 @@ If you want to use another editor, you can find a list of Markdown editors [here
 
 ## Disclaimer
 This repository is not affiliated with the University of Padua, Italy and it is not an official repository of the course "Information Security". The notes and the possible questions are not guaranteed to be correct and complete. Use them at your own risk.
+All the schema and the images are taken from the slides of the course.
+
+Plese, run the following command before using the notes:
+```python3 notes.py```
 
 ## How to contribute
 If you want to contribute to this repository, please follow these steps:
