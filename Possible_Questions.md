@@ -34,16 +34,24 @@ Answers: [Lecture_03.md](./Lecture_03/Lecture_03.md)
 1. Which are Goals, Threats, Services and Mechanisms in Simmetric Encryption?
 2. What completelly defines a cipher?
 3. What is the guessing attack? Explain the differences between `Ignorant`, `Informed` and `Sequential` guessing attacks.
+4. What is Perfect Secrecy? What is One-Time Pad? What is the relation between them?
 
 Answers: [Lecture_04.md](./Lecture_04/Lecture_04.md)
 
 ## Lecture 05 - Unconditional Secrecy
-1. 
+1. What is the mutual information between two rvs? State some properities and draw a visualization graph.
+2. Necessary condition for Perfect Secrecy
+3. K-L Divergence and Mutual Information
+4. For a mechanism with $I(x;y)\leq\varepsilon$, which is a necessary condition for unconditional secrecy and perfect decodability?
 
 Answers: [Lecture_05.md](./Lecture_05/Lecture_05.md)
 
 ## Lecture 06 - Block Ciphers
-1. 
+1. What is a Block Cipher?
+2. What is a Feistel Cipher?
+3. Talk about AES
+4. What is a Feistel Cipher?
+5. Explain the block encryption techniques of long messages
 
 Answers: [Lecture_06.md](./Lecture_06/Lecture_06.md)
 
