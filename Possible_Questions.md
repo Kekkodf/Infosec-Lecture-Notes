@@ -73,7 +73,8 @@ Answers: [Lecture_07.md](./Lecture_07/Lecture_07.md)
 Answers: [Lecture_08.md](./Lecture_08/Lecture_08.md)
 
 ## Lecture 09 - Stream Ciphers
-1. 
+1. General Model of a Stream Cipher.
+2. Rivest Cipher 4 and Linear Feedback Shift Registers.
 
 Answers: [Lecture_09.md](./Lecture_09/Lecture_09.md)
 
