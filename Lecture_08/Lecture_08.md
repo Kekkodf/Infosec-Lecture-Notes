@@ -62,26 +62,71 @@ by the Euler theorem.
 
 A chooses a random $b\in\mathbb{G}$.
 $$
-x = (\alpha^b,u\times(k'^{b}))
+x = (x_1,x_2) = (\alpha^b,u\cdot(k'^{b}))
 $$
 
 `Decryption`
 
+B does not need to know $b$ to decrypt the message.
+$$
+\hat{u}=x_2\cdot((x_1^{k})^{-1})
+$$
 
+`CORRECTNESS`
+
+$$
+\begin{align*}
+\hat{u} &= x_2\cdot((x_1^{k})^{-1})\\
+&= u\cdot(k'^{b})\cdot((\alpha^b)^{k})^{-1}\\
+&= u\cdot(\alpha^{k})^{b}\cdot(\alpha^{bk})^{-1}\\
+&= u\cdot\alpha^{bk}\cdot\alpha^{-bk}\\
+&= u
+\end{align*}
+$$
 
 ## 6. Elliptic Curve Cryptography.
-`Key generation`
+Given a Finite Field $\mathbb{F}$, an Elliptic Curve is defined as the set of points in \mathbb{F}^2 that satisfy the following equation:
+$$
+y^2=x^3+ax+b
+$$
+with $a,b\in\mathbb{F}$.
 
-`Encryption`
+The finite log problem in the Elliptic Curve set is harder than in $\mathbb{Z}_p^*$.
 
-`Decryption`
+`Point addition example`
+![G_operations.png](../Figures/G_operation.png)
+
+`Inverse point example`
+![Inverse.png](../Figures/Inverse.png)
 
 ## 7. McEliece cryptosystem.
 `Key generation`
 
+- B chooses G canonical generator matrix of a Goppa code $(n,\ell,t)$.
+- B generates S non singular matrix.
+- B generates P permutation matrix.
+- B computes $S^{-1},P^{-1}$ and $G'=P^{-1}GS^{-1}$.
+
+<mark>Private key:</mark> $k=(G,S,P)$.
+
+<mark>Public key:</mark> $k'=(G',t)$.
+
 `Encryption`
 
+Generates random error vector $e\in\mathbb{B}^n$ with $w_H(e)\leq t$.
+
+$$
+x = u\cdot G' + e
+$$
+
 `Decryption`
+
+- B computes $x'=Px$.
+- B solves the mHd decoding of $x'$ in the Goppa code with canonical $G$
+$$
+u' = \arg\min_{\beta\in\mathbb{B}^\ell}d_H(x',G\beta)
+$$
+- B computes $\hat{u}=u'S$.
 
 
 ## [Go back to the main page](../Possible_Questions.md)
