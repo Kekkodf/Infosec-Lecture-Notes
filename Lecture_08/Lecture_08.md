@@ -94,9 +94,11 @@ with $a,b\in\mathbb{F}$.
 The finite log problem in the Elliptic Curve set is harder than in $\mathbb{Z}_p^*$.
 
 `Point addition example`
+
 ![G_operations.png](../Figures/G_operation.png)
 
 `Inverse point example`
+
 ![Inverse.png](../Figures/Inverse.png)
 
 ## 7. McEliece cryptosystem.

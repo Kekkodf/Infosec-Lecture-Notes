@@ -18,11 +18,13 @@ For Launching the notes, you need to modify the `settings.json` file in Visual S
     }
 ```
 
-After that, you can run in the Terminal the script `runner.sh` to open the notes in the Visual Studio Code by typing:
+After that, you can run in the Terminal the script `runner.sh` to open the notes in the Visual Studio Code with the command:
 
 ```
 /bin/bash runner.sh
 ```
+
+and follow the instructions.
 
 If you want to use another editor, you can find a list of Markdown editors [here](https://www.markdownguide.org/tools/).
 

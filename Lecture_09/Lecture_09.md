@@ -2,10 +2,13 @@
 
 ## 1. General Model of a Stream Cipher.
 The general model of a stream cipher is the following:
+
 ![Stream_Cipher](../Figures/Stream_Cipher.png)
+
 The receiver must know $(k,s_0)$. The sender and the receiver must agree on the same $k$ and $s_0$.
 
 In general Additive Stream Ciphers follow the following model:
+
 ![ASC](../Figures/ASC.png)
 
 Generally Additive Stream Ciphers are not secure due to keystream reuse.
