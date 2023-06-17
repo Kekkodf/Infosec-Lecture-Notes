@@ -119,7 +119,9 @@ Answers: [Lecture_18.md](./Lecture_18/Lecture_18.md)
 Answers: [Lecture_19.md](./Lecture_19/Lecture_19.md)
 
 ## Lecture 20 - Privacy Measures and Mechanisms
-1. 
+1. Define Goals, Threats, Services and Mechanisms in Privacy Systems.
+2. $k$-Anonymity, $\ell$-Diversity and $t$-Closeness
+3. Relationship between definitions of Differential Privacy
 
 Answers: [Lecture_20.md](./Lecture_20/Lecture_20.md)
 
