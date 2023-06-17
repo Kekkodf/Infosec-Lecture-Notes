@@ -1,4 +1,6 @@
-# Notes and possible questions for the final oral exam of the course "Information Security" at the University of Padua, Italy.
+<h1 align='center'> 
+Notes and possible questions for the final oral exam of the course "Information Security" at the University of Padua, Italy.
+</h1>
 
 ***_Leave a star if you find this repository useful!_***
 

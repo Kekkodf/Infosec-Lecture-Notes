@@ -124,16 +124,23 @@ Answers: [Lecture_19.md](./Lecture_19/Lecture_19.md)
 Answers: [Lecture_20.md](./Lecture_20/Lecture_20.md)
 
 ## Lecture 21 - Secure Positioning: Secure GNSS and Distance Bounding
-1. 
+1. What is GNSS (Global Navigation Satellite System)?
+2. What is Galileo OSNMA? Why Digital signature is not enough?
+3. What is Distance Bounding? What is the main idea behind it?
+4. Differences between Distance fraud, Mafia fraud and Terrorist fraud.
 
 Answers: [Lecture_21.md](./Lecture_21/Lecture_21.md)
 
 ## Lecture 22 - Cellular Network Security
-1. 
+1. (2G) Cellular Networks: GSM
+2. (3G) Cellular Networks: UMTS
+3. (4G) Cellular Networks: LTE
+4. (5G) Cellular Networks: 5G
 
 Answers: [Lecture_22.md](./Lecture_22/Lecture_22.md)
 
 ## Lecture 23 - TLS
-1. 
+1. What is TLS?
+2. TLS Handshake Protocol and Record Protocol.
 
 Answers: [Lecture_23.md](./Lecture_23/Lecture_23.md)
