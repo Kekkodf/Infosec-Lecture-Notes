@@ -1,6 +1,8 @@
 <h1 align='center'> 
-Notes and possible questions for the final oral exam of the course "Information Security" at the University of Padua, Italy.
+Information Security General Notes
 </h1>
+
+## Notes for the Lectures of Information Security at Univeristy of Padua
 
 ***_Leave a star if you find this repository useful!_***
 
@@ -19,6 +21,7 @@ For Launching the notes, you need to modify the `settings.json` file in Visual S
         "*.md": "vscode.markdown.preview.editor",
     }
 ```
+(When you have finished, remove the command from the `settings.json` file to be able to modify the notes)
 
 After that, you can run in the Terminal the script `runner.sh` to open the notes in the Visual Studio Code with the command:
 
@@ -32,7 +35,7 @@ If you want to use another editor, you can find a list of Markdown editors [here
 
 ## Disclaimer
 This repository is not affiliated with the University of Padua, Italy and it is not an official repository of the course "Information Security". The notes and the possible questions are not guaranteed to be correct and complete. Use them at your own risk.
-All the schema and the images are taken from the slides of the course.
+All the schema and the images are taken from the slides of the course and used for educational purposes only.
 
 ## How to contribute
 If you want to contribute to this repository, please follow these steps:
@@ -43,7 +46,7 @@ If you want to contribute to this repository, please follow these steps:
 5. Commit and push the changes to your forked repository.
 6. Create a pull request to this repository.
 
-## Contributors
+## Authors
 - [Francesco L. De Faveri](https://kekkodf.github.io/kdf.github.io/)
 
 ## Other resources
