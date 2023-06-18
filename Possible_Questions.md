@@ -79,22 +79,33 @@ Answers: [Lecture_08.md](./Lecture_08/Lecture_08.md)
 Answers: [Lecture_09.md](./Lecture_09/Lecture_09.md)
 
 ## Lecture 10 - Physical Layer Secrecy
-1. 
+1. What is the motivation for Physical Layer Secrecy?
+2. Unconditional secrecy vs Wiretap channel model.
 
 Answers: [Lecture_10.md](./Lecture_10/Lecture_10.md)
 
 ## Lecture 11 - Authentication and Integrity Protection
-1. 
+1. Which are Goals, Threats, Services and Mechanisms in Authentication and Integrity Protection?
+2. State the three properties of a Universal Hash Function
+3. Theorem of Unconditional security of universal hash functions
 
 Answers: [Lecture_11.md](./Lecture_11/Lecture_11.md)
 
 ## Lecture 12-13 - Symmetric Authentication and Integrity Protection
-1. 
+1. What are MACs?
+2. Can we use a well designed Decryption function as a Tag function?
+3. Which are the differences between CBC-MAC and Cryptographic Hash Functions?
+4. Why is cryptographic hashing needed?
+5. What is the birthday paradox?
 
 Answers: [Lecture_12-13.md](./Lecture_12-13/Lecture_12-13.md)
 
 ## Lecture 14 - Digital Signatures
-1. 
+1. Which are the Goals, Threats, Services and Mechanisms in Digital Signatures?
+2. Explain the RSA Digital Signature Scheme
+3. Explain the Elgamal Digital Signature Scheme
+4. Explain the Elliptic Curve Digital Signature Scheme
+5. How to combine different Digital Signature Schemes?
 
 Answers: [Lecture_14.md](./Lecture_14/Lecture_14.md)
 
