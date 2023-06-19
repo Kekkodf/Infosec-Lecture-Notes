@@ -110,22 +110,32 @@ Answers: [Lecture_12-13.md](./Lecture_12-13/Lecture_12-13.md)
 Answers: [Lecture_14.md](./Lecture_14/Lecture_14.md)
 
 ## Lecture 15 - Key Management Services
-1. 
+1. Which are the Goals, Threats, Services and Mechanisms in Key Management?
+2. How does the Diffie Hellman Key Agreement work?
+3. How does the Needham-Schroeder symmetric key protocol work?
+4. How does the Needham-Schroeder asymmetric key protocol work?
+5. Why the need for PKIs?
 
 Answers: [Lecture_15.md](./Lecture_15/Lecture_15.md)
 
 ## Lecture 16-17 - Information Theoretic Key Agreement
-1. 
+1. Which are the differences between Cryptographic and Information Theoretic Key Agreement?
+2. See slides.
 
 Answers: [Lecture_16-17.md](./Lecture_16-17/Lecture_16-17.md)
 
 ## Lecture 18 - Entity Authentication Protocols
-1. 
+1. Which is the general model for Entity Authentication Protocols?
+2. Which are the two types of Entity Authentication Protocols?
 
 Answers: [Lecture_18.md](./Lecture_18/Lecture_18.md)
 
 ## Lecture 19 - Secure Random Number Generation
-1. 
+1. What is the motivation for Secure Random Number Generation?
+2. What is the difference between a Pseudo Random Number Generator and a True Random Number Generator?
+3. Cryptographic Secure PRNGs
+4. Deterministic extarctor of randomness.
+5. What is the Trevisan's extractor?
 
 Answers: [Lecture_19.md](./Lecture_19/Lecture_19.md)
 
