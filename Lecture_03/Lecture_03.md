@@ -41,7 +41,7 @@ $$
 ## 3. Definition of Total Variation Distance
 The total variation distance between two random variables $x_0$ and $x_1$ is defined as:
 $$
-d_V(x_0,x_1)=\sup_S\subset\mathcal{A}|P[x_0\in S]-P[x_1\in S]|
+d_V(x_0,x_1)=\sup_{S\subset\mathcal{A}}|P[x_0\in S]-P[x_1\in S]|
 =\frac{1}{2}\sum_{a\in\mathcal{A}}|p_{x_0}(a)-p_{x_1}(a)|
 $$
 The relationship between the total variation distance and the unconditional indistinguishability is:

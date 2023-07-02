@@ -167,3 +167,7 @@ Answers: [Lecture_22.md](./Lecture_22/Lecture_22.md)
 2. TLS Handshake Protocol and Record Protocol.
 
 Answers: [Lecture_23.md](./Lecture_23/Lecture_23.md)
+
+## Lecture 24 - Misc
+
+Answers: [Lecture_24.md](./Lecture_24/Lecture_24.md)
