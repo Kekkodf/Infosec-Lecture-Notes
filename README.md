@@ -4,7 +4,7 @@ Information Security General Notes
 
 ## Notes for the Lectures of Information Security at Univeristy of Padua
 
-## If you want to see the Possible questions and the Notes directly visit: [Notes] (https://kekkodf.github.io/Infosec-Lecture-Notes/Possible_Questions.md)
+## If you want to see the Possible questions and the Notes directly visit: [Notes] (./Possible_Questions.md)
 
 ***_Leave a star if you find this repository useful!_***
 
